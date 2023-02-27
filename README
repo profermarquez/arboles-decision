@@ -1,0 +1,20 @@
+# Paso 1: Instalar el entorno virtual:
+# virtualenv iris 
+# activar el entorno virtual ejecutando el /Scripts/activate.bat
+
+# Paso 2: Instalar dependencias:
+# pip install matplotlib
+# pip install mpl_toolkits.clifford
+# pip install scikit-learn
+
+# Paso 3: ejecucion:
+# py plot_iris_dataset.py
+
+# para el ejercicio de arboles de decision instalar:
+# pip install mlxtend
+
+# Ejercicios resueltos con excel
+# https://www.plandemejora.com/ejercicios-resueltos-de-arbol-de-decisiones/
+
+# Para profundizar:
+# https://www.cienciadedatos.net/documentos/py07_arboles_decision_python.html
